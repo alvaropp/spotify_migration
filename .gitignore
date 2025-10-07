@@ -1,0 +1,9 @@
+config.json
+*.pyc
+__pycache__/
+.env
+data/
+tokens.json
+.spotify_cache
+.tidal_session.json
+.claude/
