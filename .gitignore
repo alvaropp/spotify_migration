@@ -7,3 +7,4 @@ tokens.json
 .spotify_cache
 .tidal_session.json
 .claude/
+.venv
